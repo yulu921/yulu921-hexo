@@ -79,8 +79,10 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git   
-  repo: https://github.com/yulu921/yulu921.github.io.git
+  repo: git@github.com:yulu921/yulu921.github.io.git
 
 admin:
-
+  username: yulu921
+  password_hash: $2a$10$MCcJMc91Du.GjJoYRHP/X.bnTmkZ3EqPXqB3j0SkSAYVjA2qrWhqK
+  secret: thisismysuperlong123212321secect
   deployCommand: './deploy.sh'
