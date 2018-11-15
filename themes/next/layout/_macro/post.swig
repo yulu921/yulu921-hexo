@@ -372,7 +372,11 @@
 
     {% if theme.creative_commons.license and theme.creative_commons.post and not is_index %}
       <div>
-        {% include '../_partials/post-copyright.swig' with { post: post } %}
+        {% if theme.creative_commons.custom %}    
+          {% include '../_partials/post-custom-copyright.swig' with { post: post } %}
+        {% else %}
+          {% include '../_partials/post-copyright.swig' with { post: post } %}
+        {% endif %}
       </div>
     {% endif %}
 
