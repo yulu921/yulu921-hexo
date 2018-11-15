@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yulu921.github.io
+url: https://yulu921.github.io
 root: /
 permalink: :title/
 permalink_defaults:
@@ -86,3 +86,8 @@ admin:
   password_hash: $2a$10$MCcJMc91Du.GjJoYRHP/X.bnTmkZ3EqPXqB3j0SkSAYVjA2qrWhqK
   secret: thisismysuperlong123212321secect
   deployCommand: './deploy.sh'
+
+# add caption for iamges
+image_caption:
+  enable: true #false to disable
+  class_name: #if you wanna customize the style for the caption,you can assign a class name, default is 'image-caption'

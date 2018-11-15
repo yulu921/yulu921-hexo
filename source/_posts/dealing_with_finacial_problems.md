@@ -1,9 +1,18 @@
+---
 title: '如何抵御大病"经济危机” | 病假篇 '
 author: 愈路小组
-tags: []
-categories: []
-date: 2018-11-09 15:37:00
+tags: 
+- 经济
+- 请假
+- 费用
+categories: 
+- [愈路小组, 愈·新生]
+- [愈路小组, 疗·资讯]
+date: 2018-10-09 15:37:00
+permalink: dealing_with_finacial_problems
+wxlink: https://mp.weixin.qq.com/s?__biz=MzU2ODY5MzgwNQ==&mid=2247483794&idx=1&sn=caf2bfb2cbed77bda847f4e035efc6a7&chksm=fc8b44d0cbfccdc66b28118e2ca458c156f5264e1366475e2f8c9b0acdb7bf4048e1b1d5582e&mpshare=1&scene=1&srcid=1009Li1dnscVy79e8zMXUmPL&pass_ticket=biY4yFsoORhby9JO%2FNoOKJONMif0zmARfRCI64%2FfExy4OwMc1nNKdk5esUqqC0pz#rd 
 ---
+
 “癌症” 不仅仅是对个体身心的一次磨炼，癌症治疗的开展，也往往关系着一整个家庭未来几年的经济状况和走向。
 
 如果你是一个家庭的顶梁柱，如何在因为治疗而不能工作的期间仍然维持家人生活开销和生活质量？
@@ -11,6 +20,8 @@ date: 2018-11-09 15:37:00
 在愈路《如何抵御大病"经济危机”》系列文章里，我们将会从专业的角度，为你解答这些问题。
 
 今天，我们要分享的是：大病之后，如何请病假？
+
+<!-- more -->
 
 **能不能请病假**
 
