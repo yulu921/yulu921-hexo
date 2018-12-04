@@ -16,9 +16,9 @@ description: 你在死亡中探究生命的意义，你见证生前的呼吸化�
 
 _菠萝有一个互助群，互助群里有一群可爱的小伙伴，小伙伴们办了愈路这个公众号，经常会推荐一些书，《当呼吸化作空气》就是其中推荐的一本，也是我患癌以后在微信读书上看完的第一本书。_
 
-<!-- more -->
-
 {% fi http://upload-images.jianshu.io/upload_images/13612800-d750d9d1234f0e80?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240, "Picture credit: Lorenza Cotellessa", "Picture credit: Lorenza Cotellessa" %}
+
+<!-- more -->
 
 最近又回到了北京，输液之余，我又浏览了一遍《当呼吸化作空气》——_When breath becomes air_，书的题目来源于格莱维尔的一首小诗《卡伊利卡》中的那句「你见证生前的呼吸化作死后的空气」。
 
